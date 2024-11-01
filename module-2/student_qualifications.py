@@ -3,6 +3,11 @@
 # Description: This app accepts student names and GPAs, checks if they qualify for the Dean's List or Honor Roll,
 #              and displays a message for each student based on their GPA. The app will stop processing when the
 #              last name 'ZZZ' is entered.
+# Variables:
+#   last_name - (str) stores the student's last name; "ZZZ" triggers program termination.
+#   first_name - (str) stores the student's first name.
+#   gpa - (float) stores the student's GPA.
+
 
 while True:
     last_name = input(
