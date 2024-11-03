@@ -13,9 +13,14 @@ while True:
     last_name = input(
         "Type in a student's last name to begin processing or ZZZ to quit: "
     )
-    if last_name.isalpha() == True:
+    if last_name.isalpha() == True and last_name != "":
         while last_name != "ZZZ":
-            first_name = input("Type in student's first name: ")
+            while True:
+                first_name = input("Type in student's first name: ")
+                if first_name.isalpha() and first_name != "":
+                    break
+                else:
+                    print("Invalid student name input. Please try again!")
             while True:
                 try:
                     gpa = float(input("Type in student's GPA: "))
@@ -41,9 +46,16 @@ while True:
 
             print("Student processing complete.")
 
-            last_name = input(
-                "Type in a student's last name to begin processing or ZZZ to quit: "
-            )
+            while True:
+                last_name = input(
+                    "Type in a student's last name to begin processing or ZZZ to quit: "
+                )
+                if last_name.isalpha() and last_name != "":
+                    break
+                elif last_name == "ZZZ":
+                    break
+                else:
+                    print("Invalid student name input. Please try again!")
         break
     else:
         print("Invalid student name input. Please try again!")
