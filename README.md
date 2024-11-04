@@ -11,3 +11,5 @@ Assignment: loops_and_conditionals.ipynb
 
 ### module 3
 Assignment: lists_and_tuples.ipynb
+
+Tutorial: functional_vs_oop.ipynb
