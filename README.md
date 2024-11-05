@@ -10,6 +10,8 @@ Program: student_qualifications.py
 Assignment: loops_and_conditionals.ipynb
 
 ### module 3
+Tutorial: functional_vs_oop.ipynb
+
 Assignment: lists_and_tuples.ipynb
 
-Tutorial: functional_vs_oop.ipynb
+Case Study: lists_functions_classes.py
