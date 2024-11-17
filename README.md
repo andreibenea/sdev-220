@@ -18,3 +18,5 @@ Case Study: lists_functions_classes.py
 
 ### module 4
 Case Study: application.py
+
+Django Tutorial: django-tutorial/
