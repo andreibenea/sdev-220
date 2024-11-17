@@ -20,3 +20,5 @@ Case Study: lists_functions_classes.py
 Case Study: application.py
 
 Django Tutorial: django-tutorial/
+
+Assignment: zoo.py & interactive-interpreter.ipynb ; database-tasks.ipynb & books.db
