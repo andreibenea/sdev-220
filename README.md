@@ -15,3 +15,6 @@ Tutorial: functional_vs_oop.ipynb
 Assignment: lists_and_tuples.ipynb
 
 Case Study: lists_functions_classes.py
+
+### module 4
+Case Study: application.py
