@@ -22,3 +22,6 @@ Case Study: application.py
 Django Tutorial: django-tutorial/
 
 Assignment: zoo.py & interactive-interpreter.ipynb ; database-tasks.ipynb & books.db
+
+### module 5
+Assignment: test.py & test_notebook.ipynb (primarily used to describe the test results)
