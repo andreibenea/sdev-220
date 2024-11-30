@@ -28,3 +28,6 @@ Assignment: test.py & test_notebook.ipynb (primarily used to describe the test r
 
 ### module 6
 Assignment: concurrency.ipynb (13.1, 13.2, 13.3) & concurrency.py (15.1)
+
+### module 7
+Assignment: pandas.ipynb
