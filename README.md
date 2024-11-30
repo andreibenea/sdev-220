@@ -25,3 +25,6 @@ Assignment: zoo.py & interactive-interpreter.ipynb ; database-tasks.ipynb & book
 
 ### module 5
 Assignment: test.py & test_notebook.ipynb (primarily used to describe the test results)
+
+### module 6
+Assignment: concurrency.ipynb (13.1, 13.2, 13.3) & concurrency.py (15.1)
